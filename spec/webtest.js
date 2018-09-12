@@ -1,6 +1,6 @@
 
 describe("Web Page Homework", () => {
-  const MY_HTML_FILE = "mypage.html";
+  const MY_HTML_FILE = "index.html";
   var mTable;
   var page, pageStr;
   var cssURL, MyCSSRules;
