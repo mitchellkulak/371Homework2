@@ -1,0 +1,42 @@
+#picOfMe{
+    float:right;
+    height:25%;
+    width:25%;
+}
+#courseTable{
+    border:2px solid black;
+}
+html{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+table p{
+    font-size:small;
+}
+.best{
+    font-style:italic;
+}
+#marcusAurelius{
+    margin:5px;
+}
+.enjoyments{
+}
+.image{
+}
+.schedule{
+}
+.courses{
+}
+.nicelinks{
+}
+.quotes{
+}
+#courseTable td:nth-child(odd) {
+    text-align: center;
+}
+#courseTable tr:nth-child(even) {
+   background: grey;
+}
+#courseTable tr:nth-child(odd) {
+    background: lightgrey;
+ }
